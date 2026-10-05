@@ -1,85 +1,103 @@
-# Hi, I'm Manuel Chica López 👋
+<div align="center">
 
-### Software Engineer | Java & Spring Boot | Full-Stack Development
+# Manuel Chica López
 
-I'm a Software Engineer based in Seville, Spain, with professional experience
-building full-stack applications using **Java, Spring Boot, React, and TypeScript**.
+### Software Engineer · Java · Spring Boot · Full-Stack
 
-I enjoy designing and developing backend systems, REST APIs, and full-stack
-applications, with a particular interest in **Java/Spring, software architecture,
-and clean and maintainable code**.
+🇪🇸 Seville, Spain
 
-## 💻 Tech Stack
+[LinkedIn](https://www.linkedin.com/in/manuel-chica-lopez/) ·
+[GitHub](https://github.com/manchilop) ·
+[Email](mailto:manuchicalopez@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 whoami
+
+Software Engineer focused on **backend and full-stack development**.
+
+I enjoy building applications with **Java & Spring Boot**, designing
+**REST APIs**, and working with modern frontend technologies such as
+**React and TypeScript**.
+
+Currently interested in **software architecture, backend development
+and building reliable, maintainable applications**.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Backend
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- JPA / Hibernate
-- Python
+
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-6.x-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Frontend
-- React
-- React Native
-- TypeScript
-- JavaScript
 
-### Databases & Infrastructure
-- PostgreSQL
-- SQL
-- Docker
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Development & Tools
-- Git
-- Maven
-- OpenAPI
-- Cypress
-- JWT
+### Data & Infrastructure
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
+
+</div>
+
+---
 
 ## 🚀 Featured Project
 
-### AutoTest
+<div align="center">
 
-A cross-platform educational application developed from scratch as my
-Final Degree Project.
+# AutoTest
 
-- **Backend:** Java 21, Spring Boot, Spring Security, JPA
-- **Database:** PostgreSQL
-- **Authentication:** JWT
-- **Client:** React Native, TypeScript
-- **Infrastructure:** Docker
+### Final Degree Project · Full-Stack Educational Platform
 
-🔗 [View repository](https://github.com/Manchilop/autotest)
+</div>
 
-## 💼 Experience
+AutoTest is a cross-platform application developed **from scratch** for
+creating, managing and practicing multiple-choice tests.
 
-### Fullstack Software Engineer — NUBEDIAN GmbH
+**Stack**
 
-Developed backend and frontend features for a web platform serving
-aftercare providers in the German healthcare sector.
+`Java 21` · `Spring Boot` · `Spring Security` · `JPA`  
+`PostgreSQL` · `JWT` · `React Native` · `TypeScript` · `Docker`
 
-**Java · Spring Boot · React · TypeScript**
+<div align="center">
 
-### Fullstack Software Engineer — ALTIA / INDITEX
+[![AutoTest](https://img.shields.io/badge/View%20Project-AutoTest-181717?style=for-the-badge&logo=github)](https://github.com/Manchilop/autotest)
 
-Developed a Delivery application based on a microservices architecture.
+</div>
 
-**Java 21 · Spring Boot 3 · JPA · OpenAPI · React · TypeScript · Keycloak**
+---
 
 ## 🎓 Education
 
-**Degree in Software Engineering — Universidad de Sevilla**
+**Software Engineering — Universidad de Sevilla**
 
 Final Degree Project: **AutoTest**
 
-## 🌍 Languages
+🇲🇽 International Mobility · Universidad Modelo  
+🇵🇱 Erasmus · Wyższa Szkoła Zarządzania i Bankowości
 
-- 🇪🇸 Spanish — Native
-- 🇬🇧 English — C1
-- 🇫🇷 French — A2
+---
 
-## 📫 Contact
+<div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manuel-chica-lopez/)
-- 📧 manuchicalopez@gmail.com
+### Let's build something 🚀
+
+[LinkedIn](https://www.linkedin.com/in/manuel-chica-lopez/) ·
+[Email](mailto:manuchicalopez@gmail.com)
+
+</div>
